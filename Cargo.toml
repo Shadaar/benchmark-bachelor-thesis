@@ -1,0 +1,8 @@
+[package]
+name = "pcap_test"
+version = "0.1.0"
+authors = ["Tim Stadtmüller <tim.stadtmueller@t-online.de>"]
+edition = "2018"
+
+[dependencies]
+pcap = "0.7.0"
